@@ -1,11 +1,13 @@
-### Olá, galera. Eu sou o Kleidson 👋
+# Kleidson Alves
+
+## Olá, galera 👋
 
 Conheça um pouco mais sobre mim:
 
 - 📚 Graduando em Engenharia de Software na Universidade de Brasília
 - ❤️ Apaixonado por programação
 - 📝 Valorizo muito o aprendizado, por isso estou sempre buscando me desenvolver cada vez mais nessa área tão maravilhosa da programação
-- 💻 Em horas vagas, gosto de realizar meus projetos pessoas de Front-End, Back-End e Mobile 
+- 💻 Em horas vagas, gosto de realizar meus projetos pessoais de Front-End, Back-End e Mobile 
 - 💡 Estou sempre em busca de novas ideias e de tirá-las do papel
 - ⚽ Também gosto de jogar futebol como lazer preferido
 
@@ -15,7 +17,7 @@ Meus conhecimentos
 - 😃 Mobile -> React-Native
 - 🙂 Back-End -> NodeJs
 
-E as que estou interessada em aprender mais:
+Tecnologias de interesse: 
 
 - 🌱 VueJs
 - 🌱 ElectronJs
